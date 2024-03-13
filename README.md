@@ -1,0 +1,7 @@
+# AviPy
+# https://tea.xyz/what-is-this-file
+---
+version: 1.0.0
+codeOwners:
+  - '0x580475B9D35C1723C211BEBa02be81577BB8f722'
+quorum: 1
